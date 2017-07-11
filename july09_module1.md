@@ -1,5 +1,5 @@
-#Fail Log: Module 1
-##09 July 2017
+# Fail Log: Module 1
+## 09 July 2017
 ---
 ### what I was trying to do
 - I completed [exercises 1-4 of module 1](http://workbook.craftingdigitalhistory.ca/module-1/Exercises/) in the Crafting Digital History Workbook
